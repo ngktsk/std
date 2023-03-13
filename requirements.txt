@@ -67,12 +67,6 @@ six==1.16.0
 tensorboard==2.11.2
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
-tensorflow==2.11.0
-tensorflow-datasets==4.8.2
-tensorflow-estimator==2.11.0
-tensorflow-intel==0.0.1
-tensorflow-io-gcs-filesystem==0.29.0
-tensorflow-metadata==1.12.0
 termcolor==2.2.0
 toml==0.10.2
 torch==1.13.1+cu116
@@ -88,3 +82,10 @@ wget==3.2
 wrapt==1.14.1
 xlrd==2.0.1
 zipp==3.11.0
+tensorflow==2.11.0
+tensorflow-datasets==4.8.2
+tensorflow-estimator==2.11.0
+tensorflow-intel==0.0.1
+tensorflow-io-gcs-filesystem==0.29.0
+tensorflow-metadata==1.12.0
+
